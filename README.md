@@ -1,7 +1,7 @@
 # News24
 The goal is to create a News Feed app which gives a user regularly-updated news from the Internet related to a particular topic, person, or location.  Its fetch data from theguardian
 
-MEETS SPECIFICATIONS
+## MEETS SPECIFICATIONS
 
 ->App contains a main screen which displays multiple news stories
 
@@ -18,7 +18,7 @@ MEETS SPECIFICATIONS
 ->Images are not required.
 
 
-FUNCTIONALITY
+## FUNCTIONALITY
 
 ->Stories shown on the main screen update properly whenever new news data is fetched from the API.
 
