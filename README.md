@@ -45,6 +45,8 @@ The goal is to create a News Feed app which gives a user regularly-updated news 
 ->The student must use a Uri builder to construct the URL string to pass into the Loader constructor.
 
 
+# API 
+The API used for fetching news is(Guardian)
 
 
 ![news1](https://user-images.githubusercontent.com/45606322/51956589-7cdff800-2405-11e9-9f56-0be9e903f726.png)
